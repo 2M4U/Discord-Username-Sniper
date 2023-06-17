@@ -33,7 +33,7 @@ The script will read the configuration from `config.json`, generate a random 3-l
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/discord-username-sniper.git`.
+1. Clone the repository: `git clone https://github.com/2M4U/Discord-Username-Sniper.git`.
 2. Install the dependencies: `npm install axios`.
 3. Replace `'Your_Token'` and `'Your_Password'` in `index.js` with your appropriate Discord token and password.
 4. Run the script: `node index.js`.
