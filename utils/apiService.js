@@ -1,6 +1,5 @@
 const axios = require('axios');
 const { handleRateLimit } = require('./errorHandling');
-const { delay } = require('./utils');
 
 const API_BASE_URL = 'https://discord.com/api/v9';
 
